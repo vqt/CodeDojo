@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace CodeDojo
 {
-    public class ReverseNodesInKGroup
+    public partial class Solution
     {
         public ListNode ReverseKGroup(ListNode head, int k)
         {
